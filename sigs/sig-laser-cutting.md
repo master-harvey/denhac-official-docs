@@ -20,7 +20,7 @@ The Laser SIG exists to facilitate safe and effective usage of the Laser Cutting
 #### ***In-Scope***
 
 * Maintaining denhac-owned Laser Cutters and associated hardware including the computing infrastructure required to operate the lasers
-* Resources for use specific to the Lasers such as weights, calibration tools, the the rotary tool, etc
+* Resources for use specific to the Lasers such as weights, calibration tools, the rotary tool, etc
 * Project support and collaboration with other sigs and future denhac events
 * Maintenance and Improvements to the Laser cutting space within denhac
 * Responding to and managing the use of donated laser cutting equipment
