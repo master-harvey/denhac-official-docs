@@ -42,7 +42,7 @@ The Laser SIG exists to facilitate safe and effective usage of the Laser Cutting
 
 SIG decisions will officially be made by majority vote between the SIG leads who should strongly take into consideration the sentiments of any attendees to SIG meetings while ultimately acting in the best interests of denhac as a whole. SIG leads are encouraged to make decisions using majority votes from Laser SIG members, and decisions made by the Laser SIG leads can always be overridden by decisions from the denhac board of governors.
 
-Amendments to this charter can be made during group meetings by vote between SIG members and Leads, or by the denhac board of governors at any time according to the rules in place for modifications to denhac's own charter.
+Amendments to this charter can be made during group meetings by vote between SIG members and Leads, or by the denhac board of governors at any time according to the rules in place for modifications to denhac's own bylaws.
 
 ## Communications
 
